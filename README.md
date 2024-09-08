@@ -1,2 +1,2 @@
 # FoodDeliveryWebsite
-FullStackFoodDeliveryWebsite ReactJs
+FullStackFoodDeliveryWebsite MERN Stack
